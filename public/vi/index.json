@@ -4,63 +4,63 @@
 	"title": "Giới thiệu",
 	"tags": [],
 	"description": "",
-	"content": "Giới thiệu Amazon Macie phát hiện và bảo vệ dữ liệu nhạy cảm của bạn được lưu trữ trong S3 bucket. Trước tiên, nó xác định dữ liệu nhạy cảm trong bucket của bạn, chẳng hạn như thông tin nhận dạng cá nhân hoặc thông tin sức khỏe cá nhân, thông qua các jobs. Bạn có thể lên lịch các job này để theo dõi dữ liệu mới được thêm vào bucket của mình. Sau khi tìm thấy dữ liệu nhạy cảm, Macie liên tục đánh giá bucket của bạn và thông báo cho bạn khi bucket không được mã hóa, có thể truy cập công khai hoặc được chia sẻ với các tài khoản AWS bên ngoài tổ chức của bạn.\nĐịnh giá của Macie thay đổi theo số lượng dữ liệu mà nó xử lý và số lượng S3 bucket mà nó giám sát.\n Amazon Macie sử dụng tính năng đối sánh mẫu và học máy để bảo vệ dữ liệu nhạy cảm được lưu trữ trong S3 bucket. Nó phát hiện danh sách các loại dữ liệu bao gồm PII (Thông tin nhận dạng cá nhân) như tên, địa chỉ, số thẻ tín dụng, v.v. Cùng với việc phát hiện dữ liệu, nó cung cấp cho bạn khả năng hiển thị đầy đủ về các S3 bucket của bạn và thông tin của nó như các bucket có thể truy cập công khai, bucket không được mã hóa và các bucket được chia sẻ với các tài khoản khác. Để bắt đầu với Amazon Macie, bạn có thể sử dụng bản dùng thử miễn phí trong 30 ngày để đánh giá bucket. Bản dùng thử miễn phí không bao gồm việc phát hiện ra dữ liệu nhạy cảm có trong S3 bucket .  "
+	"content": "Giới thiệu Amazon Macie phát hiện và bảo vệ dữ liệu nhạy cảm của bạn được lưu trữ trong S3 bucket. Trước tiên, nó xác định dữ liệu nhạy cảm trong bucket của bạn, chẳng hạn như thông tin nhận dạng cá nhân hoặc thông tin sức khỏe cá nhân, thông qua các jobs. Bạn có thể lên lịch các job này để theo dõi dữ liệu mới được thêm vào bucket của mình. Sau khi tìm thấy dữ liệu nhạy cảm, Macie liên tục đánh giá bucket của bạn và thông báo cho bạn khi bucket không được mã hóa, có thể truy cập công khai hoặc được chia sẻ với các tài khoản AWS bên ngoài tổ chức của bạn.\nĐịnh giá của Macie thay đổi theo số lượng dữ liệu mà nó xử lý và số lượng S3 bucket mà nó giám sát.\nAmazon Macie sử dụng tính năng đối sánh mẫu và học máy để bảo vệ dữ liệu nhạy cảm được lưu trữ trong S3 bucket. Nó phát hiện danh sách các loại dữ liệu bao gồm PII (Thông tin nhận dạng cá nhân) như tên, địa chỉ, số thẻ tín dụng, v.v. Cùng với việc phát hiện dữ liệu, nó cung cấp cho bạn khả năng hiển thị đầy đủ về các S3 bucket của bạn và thông tin của nó như các bucket có thể truy cập công khai, bucket không được mã hóa và các bucket được chia sẻ với các tài khoản khác. Để bắt đầu với Amazon Macie, bạn có thể sử dụng bản dùng thử miễn phí trong 30 ngày để đánh giá bucket. Bản dùng thử miễn phí không bao gồm việc phát hiện ra dữ liệu nhạy cảm có trong S3 bucket . "
 },
 {
 	"uri": "/vi/",
 	"title": "Khám phá dữ liệu nhạy cảm có trong S3 bucket bằng Amazon Macie",
 	"tags": [],
 	"description": "",
-	"content": "Khám phá dữ liệu nhạy cảm có trong S3 bucket bằng Amazon Macie Amazon Macie phát hiện và bảo vệ dữ liệu nhạy cảm của bạn được lưu trữ trong S3 bucket. Trước tiên, nó xác định dữ liệu nhạy cảm trong bucket của bạn, chẳng hạn như thông tin nhận dạng cá nhân hoặc thông tin sức khỏe cá nhân, thông qua các jobs. Bạn có thể lên lịch các job này để theo dõi dữ liệu mới được thêm vào bucket của mình. Sau khi tìm thấy dữ liệu nhạy cảm, Macie liên tục đánh giá bucket của bạn và thông báo cho bạn khi bucket không được mã hóa, có thể truy cập công khai hoặc được chia sẻ với các tài khoản AWS bên ngoài tổ chức của bạn.\nĐịnh giá của Macie thay đổi theo số lượng dữ liệu mà nó xử lý và số lượng S3 bucket mà nó giám sát.\n Amazon Macie sử dụng tính năng đối sánh mẫu và học máy để bảo vệ dữ liệu nhạy cảm được lưu trữ trong S3 bucket. Nó phát hiện danh sách các loại dữ liệu bao gồm PII (Thông tin nhận dạng cá nhân) như tên, địa chỉ, số thẻ tín dụng, v.v. Cùng với việc phát hiện dữ liệu, nó cung cấp cho bạn khả năng hiển thị đầy đủ về các S3 bucket của bạn và thông tin của nó như các bucket có thể truy cập công khai, bucket không được mã hóa và các bucket được chia sẻ với các tài khoản khác. Để bắt đầu với Amazon Macie, bạn có thể sử dụng bản dùng thử miễn phí trong 30 ngày để đánh giá bucket. Bản dùng thử miễn phí không bao gồm việc phát hiện ra dữ liệu nhạy cảm có trong S3 bucket .  Nôi dung  Giới thiệu Các bước chuẩn bị Tạo Custom data identifiers Tạo Macie job Macie job run và findings Dọn dẹp tài nguyên  "
+	"content": "Khám phá dữ liệu nhạy cảm có trong S3 bucket bằng Amazon Macie Amazon Macie phát hiện và bảo vệ dữ liệu nhạy cảm của bạn được lưu trữ trong S3 bucket. Trước tiên, nó xác định dữ liệu nhạy cảm trong bucket của bạn, chẳng hạn như thông tin nhận dạng cá nhân hoặc thông tin sức khỏe cá nhân, thông qua các jobs. Bạn có thể lên lịch các job này để theo dõi dữ liệu mới được thêm vào bucket của mình. Sau khi tìm thấy dữ liệu nhạy cảm, Macie liên tục đánh giá bucket của bạn và thông báo cho bạn khi bucket không được mã hóa, có thể truy cập công khai hoặc được chia sẻ với các tài khoản AWS bên ngoài tổ chức của bạn.\nĐịnh giá của Macie thay đổi theo số lượng dữ liệu mà nó xử lý và số lượng S3 bucket mà nó giám sát.\nAmazon Macie sử dụng tính năng đối sánh mẫu và học máy để bảo vệ dữ liệu nhạy cảm được lưu trữ trong S3 bucket. Nó phát hiện danh sách các loại dữ liệu bao gồm PII (Thông tin nhận dạng cá nhân) như tên, địa chỉ, số thẻ tín dụng, v.v. Cùng với việc phát hiện dữ liệu, nó cung cấp cho bạn khả năng hiển thị đầy đủ về các S3 bucket của bạn và thông tin của nó như các bucket có thể truy cập công khai, bucket không được mã hóa và các bucket được chia sẻ với các tài khoản khác. Để bắt đầu với Amazon Macie, bạn có thể sử dụng bản dùng thử miễn phí trong 30 ngày để đánh giá bucket. Bản dùng thử miễn phí không bao gồm việc phát hiện ra dữ liệu nhạy cảm có trong S3 bucket . Nôi dung Giới thiệu Các bước chuẩn bị Tạo Custom data identifiers Tạo Macie job Macie job run và findings Dọn dẹp tài nguyên "
 },
 {
 	"uri": "/vi/2-prerequiste/2.1-creates3bucket/",
 	"title": "Tạo S3 bucket",
 	"tags": [],
 	"description": "",
-	"content": "Tạo S3 bucket Để tải xuống file pii.csv, bạn click vào đây, nhấp chuột phải vào nút Raw ở đầu file, chọn Save Link As…, rồi chọn nơi bạn muốn lưu file trên máy tính của bạn, chọn Save.\n\r Truy cập vào giao diện S3   Chọn Create bucket   Đối với Create bucket\n Bucket name, bạn nhập tên tùy ý nhưng phải là giá trị duy nhất. Chọn AWS Region mà bạn triển khai.    Chọn Create bucket  Sau khi tạo bucket thành công. Bạn chọn Object và tiếp tục chọn Upload  Upload file csv bạn đã tải về.  Upload thành công.  "
+	"content": "Tạo S3 bucket Để tải xuống file pii.csv, bạn click vào đây, nhấp chuột phải vào nút Raw ở đầu file, chọn Save Link As…, rồi chọn nơi bạn muốn lưu file trên máy tính của bạn, chọn Save.\nTruy cập vào giao diện S3 Chọn Create bucket Đối với Create bucket\nBucket name, bạn nhập tên tùy ý nhưng phải là giá trị duy nhất. Chọn AWS Region mà bạn triển khai. Chọn Create bucket Sau khi tạo bucket thành công. Bạn chọn Object và tiếp tục chọn Upload Upload file csv bạn đã tải về. Upload thành công. "
 },
 {
 	"uri": "/vi/2-prerequiste/",
 	"title": "Các bước chuẩn bị",
 	"tags": [],
 	"description": "",
-	"content": "Các bước chuẩn bị Chúng ta sẽ tạo S3 bucket và kích hoạt Macie.\n Tạo S3 bucket Kích hoạt Macie  "
+	"content": "Các bước chuẩn bị Chúng ta sẽ tạo S3 bucket và kích hoạt Macie.\nTạo S3 bucket Kích hoạt Macie "
 },
 {
 	"uri": "/vi/2-prerequiste/2.2-enabllemacie/",
 	"title": "Kích hoạt Macie",
 	"tags": [],
 	"description": "",
-	"content": "Kích hoạt Macie  Truy cập vào giao diện Macie   Chọn Get started  Trong giao diện Get started, chọn Enable Macie  Kích hoạt Macie thành công.  "
+	"content": "Kích hoạt Macie Truy cập vào giao diện Macie Chọn Get started Trong giao diện Get started, chọn Enable Macie Kích hoạt Macie thành công. "
 },
 {
 	"uri": "/vi/3-macie/",
 	"title": "Tạo Custom data identifiers",
 	"tags": [],
 	"description": "",
-	"content": "Tạo Custom data identifiers   Truy cập vào giao diện Macie\n Chọn Create job     Thực hiện cấu hình job, bước đầu tiên là Choose S3 bucket\n Chọn Select specific buckets    Chọn S3 bucket, ta đã tạo.  Bước tiếp theo, thực hiện Review S3 bucket.  Thực hiện Refine the scope   Chọn Include existing objects Chọn One-time job Chọn Next  Cấu hình Object criteria   Chọn File name extensions Nhập csv Chọn Include  Chọn Next  Thực hiện Select managed data identifiers   Chọn All Chọn Next  Tạo Manage custom identifiers  Trong giao diện Custom data identifiers, chọn Create.  Đối với Name, nhập EmpID   Regular expression, nhập [a-z][2][0-9][4]  Chọn Submit  Tạo Custom data identifiers thành công.  "
+	"content": "Tạo Custom data identifiers Truy cập vào giao diện Macie\nChọn Create job Thực hiện cấu hình job, bước đầu tiên là Choose S3 bucket\nChọn Select specific buckets Chọn S3 bucket, ta đã tạo. Bước tiếp theo, thực hiện Review S3 bucket. Thực hiện Refine the scope Chọn Include existing objects Chọn One-time job Chọn Next Cấu hình Object criteria Chọn File name extensions Nhập csv Chọn Include Chọn Next Thực hiện Select managed data identifiers Chọn All Chọn Next Tạo Manage custom identifiers Trong giao diện Custom data identifiers, chọn Create. Đối với Name, nhập EmpID Regular expression, nhập [a-z][2][0-9][4] Chọn Submit Tạo Custom data identifiers thành công. "
 },
 {
 	"uri": "/vi/4-createjob/",
 	"title": "Tạo một Macie job",
 	"tags": [],
 	"description": "",
-	"content": "Tạo một Macie job  Quay lại giao diện cấu hình Job, chọn EmpID và chọn Next.  Đối với Select allow lists bạn có thể bỏ qua và chọn Next.  Thực hiện Enter general settings, nhập Job name là EmpID, sau đó chọn Next.  Thực hiện Review and create  Chọn Submit  Khi mới tạo Job sẽ có trạng thái Active(Running)  "
+	"content": "Tạo một Macie job Quay lại giao diện cấu hình Job, chọn EmpID và chọn Next. Đối với Select allow lists bạn có thể bỏ qua và chọn Next. Thực hiện Enter general settings, nhập Job name là EmpID, sau đó chọn Next. Thực hiện Review and create Chọn Submit Khi mới tạo Job sẽ có trạng thái Active(Running) "
 },
 {
 	"uri": "/vi/5-monitoring/",
 	"title": "Macie job run và findings",
 	"tags": [],
 	"description": "",
-	"content": "Macie job run và findings  Chọn Show results, sau đó chọn Show CloudWatch logs.  Giám sát Log events  Chọn Show results  Chọn Show findings  Trong giao diện Findings  Chọn Action và chọn Export(JSON)  Chọn Download  Sau thời gian khoảng 10-15 phút bạn xem Log events sẽ thấy job hoàn thành.  Quay lại giao diện Amazon Macie ta thấy phần Summary của các S3 bucket.  "
+	"content": "Macie job run và findings Chọn Show results, sau đó chọn Show CloudWatch logs. Giám sát Log events Chọn Show results Chọn Show findings Trong giao diện Findings Chọn Action và chọn Export(JSON) Chọn Download Sau thời gian khoảng 10-15 phút bạn xem Log events sẽ thấy job hoàn thành. Quay lại giao diện Amazon Macie ta thấy phần Summary của các S3 bucket. "
 },
 {
 	"uri": "/vi/6-cleanup/",
 	"title": "Dọn dẹp tài nguyên",
 	"tags": [],
 	"description": "",
-	"content": "Dọn dẹp tài nguyên   Truy cập vào Macie\n Chọn Settings Chọn Disable    Xác nhận hủy kích hoạt.  Thực hiện Empty S3 bucket.  Xác nhận Empty  Thực hiện xóa bucket.  "
+	"content": "Dọn dẹp tài nguyên Truy cập vào Macie\nChọn Settings Chọn Disable Xác nhận hủy kích hoạt. Thực hiện Empty S3 bucket. Xác nhận Empty Thực hiện xóa bucket. "
 },
 {
 	"uri": "/vi/categories/",
