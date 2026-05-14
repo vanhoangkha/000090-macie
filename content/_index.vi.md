@@ -1,6 +1,6 @@
 ---
 title : "Khám phá dữ liệu nhạy cảm có trong S3 bucket bằng Amazon Macie"
-date : "`r Sys.Date()`"
+date: 2024-01-01
 weight : 1
 chapter : false
 ---
